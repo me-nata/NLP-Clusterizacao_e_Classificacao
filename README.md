@@ -6,3 +6,6 @@ Trabalho da disciplina de Processamento de Linguagem Natural: vetorizção de te
 <center>
 <img src="https://drive.google.com/uc?id=1O0hVXmckWjcKCipbGIcqyMSY-PxG8r34" width="600" height="500">
 </center>
+
+
+*OBS: Recomendado abrir através do link do colab*
