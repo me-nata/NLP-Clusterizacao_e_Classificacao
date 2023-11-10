@@ -3,9 +3,5 @@
 <h1>Natual Language Processing: Vetorização, classificação e clusterização</h1>
 Trabalho da disciplina de Processamento de Linguagem Natural: vetorizção de texto, exploração de métodos de clusterização e classificação e Utilização do PCA para visualização dos dados
 
-<center>
-<img src="https://drive.google.com/uc?id=1O0hVXmckWjcKCipbGIcqyMSY-PxG8r34" width="600" height="500">
-</center>
-
-
+\
 *OBS: Recomendado abrir através do link do colab*
